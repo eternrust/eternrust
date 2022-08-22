@@ -1,6 +1,8 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Welcome!%20%20&fontAlign=30&fontSize=30&textBg=true&desc=to%20the%20My%20%27Github%27%20profile&descAlign=60&descAlignY=50" />
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feternrust%2Fhit-counter&count_bg=%23747474&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)
+---
 <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternrust&theme=dracula&layout=compact&langs_count=10"/>
 
 ### :wave:Introduction
@@ -9,6 +11,7 @@
 
 아직 많이 부족하지만 부족한 만큼 계속 정진해나가겠습니다.
 
+---
 <img align=right src="https://github-readme-stats.vercel.app/api?username=eternrust&show_icons=true&theme=dracula"/>
 
 ### :zap:Skill
