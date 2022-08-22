@@ -9,7 +9,7 @@
 
 아직 많이 부족하지만 부족한 만큼 계속 정진해나가겠습니다.
 
-<img align=right src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+<img align=right src="https://github-readme-stats.vercel.app/api?username=eternrust&show_icons=true&theme=dracula"/>
 
 ### :zap:Skill
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
